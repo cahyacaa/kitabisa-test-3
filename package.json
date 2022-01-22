@@ -1,0 +1,18 @@
+{
+  "name": "kitabisa-test-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon src/task-3.js",
+    "start": "node src/task-3.js",
+    "jest": "jest test --coverage --forceExit",
+    "test": "yarn jest"
+  },
+  "repository": "https://github.com/cahyacaa/kitabisa-test-3.git",
+  "author": "cahya <cahya@skyshi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15"
+  }
+}
