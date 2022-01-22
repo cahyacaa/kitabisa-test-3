@@ -1,4 +1,4 @@
-![ci workflow](https://github.com/cahyacaa/kitabisa-test-2/actions/workflows/ci.yml/badge.svg)
+![ci workflow](https://github.com/cahyacaa/kitabisa-test-3/actions/workflows/ci.yml/badge.svg)
 
 # kitabisa-test-3
 this function using HCF to solve the problem
